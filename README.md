@@ -48,3 +48,10 @@ export default tseslint.config({
   },
 })
 ```
+iniciar frontend:
+1 - Clone o repositório
+2 - Instale as dependências do projeto:
+npm i
+3 - Inicie o servidor:
+npm run dev
+
